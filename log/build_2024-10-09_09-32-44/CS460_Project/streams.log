@@ -1,0 +1,38 @@
+[0.303s] Invoking command in '/home/main/Documents/CS460_Project/CS460_Project': PYTHONPATH=/home/main/Documents/CS460_Project/build/CS460_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/CS460_Project build --build-base /home/main/Documents/CS460_Project/build/CS460_Project/build install --record /home/main/Documents/CS460_Project/build/CS460_Project/install.log --single-version-externally-managed install_data
+[0.412s] running egg_info
+[0.412s] creating ../build/CS460_Project/CS460_Project.egg-info
+[0.412s] writing ../build/CS460_Project/CS460_Project.egg-info/PKG-INFO
+[0.412s] writing dependency_links to ../build/CS460_Project/CS460_Project.egg-info/dependency_links.txt
+[0.413s] writing entry points to ../build/CS460_Project/CS460_Project.egg-info/entry_points.txt
+[0.413s] writing requirements to ../build/CS460_Project/CS460_Project.egg-info/requires.txt
+[0.413s] writing top-level names to ../build/CS460_Project/CS460_Project.egg-info/top_level.txt
+[0.413s] writing manifest file '../build/CS460_Project/CS460_Project.egg-info/SOURCES.txt'
+[0.414s] reading manifest file '../build/CS460_Project/CS460_Project.egg-info/SOURCES.txt'
+[0.414s] adding license file 'LICENSE'
+[0.414s] writing manifest file '../build/CS460_Project/CS460_Project.egg-info/SOURCES.txt'
+[0.414s] running build
+[0.414s] running build_py
+[0.414s] creating /home/main/Documents/CS460_Project/build/CS460_Project/build
+[0.414s] creating /home/main/Documents/CS460_Project/build/CS460_Project/build/lib
+[0.414s] creating /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project
+[0.414s] copying CS460_Project/robobuddy.py -> /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project
+[0.414s] copying CS460_Project/__init__.py -> /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project
+[0.414s] running install
+[0.414s] running install_lib
+[0.414s] creating /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project
+[0.415s] copying /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project/robobuddy.py -> /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project
+[0.415s] copying /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project/__init__.py -> /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project
+[0.415s] byte-compiling /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project/robobuddy.py to robobuddy.cpython-310.pyc
+[0.415s] byte-compiling /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project/__init__.py to __init__.cpython-310.pyc
+[0.415s] running install_data
+[0.415s] creating /home/main/Documents/CS460_Project/install/CS460_Project/share/ament_index
+[0.415s] creating /home/main/Documents/CS460_Project/install/CS460_Project/share/ament_index/resource_index
+[0.415s] creating /home/main/Documents/CS460_Project/install/CS460_Project/share/ament_index/resource_index/packages
+[0.415s] copying resource/CS460_Project -> /home/main/Documents/CS460_Project/install/CS460_Project/share/ament_index/resource_index/packages
+[0.415s] copying package.xml -> /home/main/Documents/CS460_Project/install/CS460_Project/share/CS460_Project
+[0.415s] running install_egg_info
+[0.416s] Copying ../build/CS460_Project/CS460_Project.egg-info to /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project-0.0.0-py3.10.egg-info
+[0.417s] running install_scripts
+[0.429s] Installing robobuddy script to /home/main/Documents/CS460_Project/install/CS460_Project/lib/CS460_Project
+[0.429s] writing list of installed files to '/home/main/Documents/CS460_Project/build/CS460_Project/install.log'
+[0.441s] Invoked command in '/home/main/Documents/CS460_Project/CS460_Project' returned '0': PYTHONPATH=/home/main/Documents/CS460_Project/build/CS460_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/CS460_Project build --build-base /home/main/Documents/CS460_Project/build/CS460_Project/build install --record /home/main/Documents/CS460_Project/build/CS460_Project/install.log --single-version-externally-managed install_data

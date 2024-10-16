@@ -1,0 +1,23 @@
+[0.379s] Invoking command in '/home/main/Documents/CS460_Project/CS460_Project': PYTHONPATH=/home/main/Documents/CS460_Project/build/CS460_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/CS460_Project build --build-base /home/main/Documents/CS460_Project/build/CS460_Project/build install --record /home/main/Documents/CS460_Project/build/CS460_Project/install.log --single-version-externally-managed install_data
+[0.496s] running egg_info
+[0.497s] writing ../build/CS460_Project/CS460_Project.egg-info/PKG-INFO
+[0.497s] writing dependency_links to ../build/CS460_Project/CS460_Project.egg-info/dependency_links.txt
+[0.497s] writing entry points to ../build/CS460_Project/CS460_Project.egg-info/entry_points.txt
+[0.497s] writing requirements to ../build/CS460_Project/CS460_Project.egg-info/requires.txt
+[0.497s] writing top-level names to ../build/CS460_Project/CS460_Project.egg-info/top_level.txt
+[0.498s] reading manifest file '../build/CS460_Project/CS460_Project.egg-info/SOURCES.txt'
+[0.498s] adding license file 'LICENSE'
+[0.499s] writing manifest file '../build/CS460_Project/CS460_Project.egg-info/SOURCES.txt'
+[0.499s] running build
+[0.499s] running build_py
+[0.499s] running install
+[0.499s] running install_lib
+[0.500s] running install_data
+[0.500s] copying worlds/indoor_environment.wbt -> /home/main/Documents/CS460_Project/install/CS460_Project/share/CS460_Project/worlds
+[0.500s] running install_egg_info
+[0.501s] removing '/home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project-0.0.0-py3.10.egg-info' (and everything under it)
+[0.501s] Copying ../build/CS460_Project/CS460_Project.egg-info to /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project-0.0.0-py3.10.egg-info
+[0.501s] running install_scripts
+[0.513s] Installing robobuddy script to /home/main/Documents/CS460_Project/install/CS460_Project/lib/CS460_Project
+[0.513s] writing list of installed files to '/home/main/Documents/CS460_Project/build/CS460_Project/install.log'
+[0.527s] Invoked command in '/home/main/Documents/CS460_Project/CS460_Project' returned '0': PYTHONPATH=/home/main/Documents/CS460_Project/build/CS460_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/CS460_Project build --build-base /home/main/Documents/CS460_Project/build/CS460_Project/build install --record /home/main/Documents/CS460_Project/build/CS460_Project/install.log --single-version-externally-managed install_data

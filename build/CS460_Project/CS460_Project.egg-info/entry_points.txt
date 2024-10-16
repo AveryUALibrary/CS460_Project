@@ -1,0 +1,3 @@
+[console_scripts]
+robobuddy = CS460_Project.robobuddy:main
+

@@ -1,0 +1,36 @@
+running egg_info
+creating ../build/CS460_Project/CS460_Project.egg-info
+writing ../build/CS460_Project/CS460_Project.egg-info/PKG-INFO
+writing dependency_links to ../build/CS460_Project/CS460_Project.egg-info/dependency_links.txt
+writing entry points to ../build/CS460_Project/CS460_Project.egg-info/entry_points.txt
+writing requirements to ../build/CS460_Project/CS460_Project.egg-info/requires.txt
+writing top-level names to ../build/CS460_Project/CS460_Project.egg-info/top_level.txt
+writing manifest file '../build/CS460_Project/CS460_Project.egg-info/SOURCES.txt'
+reading manifest file '../build/CS460_Project/CS460_Project.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/CS460_Project/CS460_Project.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/main/Documents/CS460_Project/build/CS460_Project/build
+creating /home/main/Documents/CS460_Project/build/CS460_Project/build/lib
+creating /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project
+copying CS460_Project/robobuddy.py -> /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project
+copying CS460_Project/__init__.py -> /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project
+running install
+running install_lib
+creating /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project
+copying /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project/robobuddy.py -> /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project
+copying /home/main/Documents/CS460_Project/build/CS460_Project/build/lib/CS460_Project/__init__.py -> /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project
+byte-compiling /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project/robobuddy.py to robobuddy.cpython-310.pyc
+byte-compiling /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/main/Documents/CS460_Project/install/CS460_Project/share/ament_index
+creating /home/main/Documents/CS460_Project/install/CS460_Project/share/ament_index/resource_index
+creating /home/main/Documents/CS460_Project/install/CS460_Project/share/ament_index/resource_index/packages
+copying resource/CS460_Project -> /home/main/Documents/CS460_Project/install/CS460_Project/share/ament_index/resource_index/packages
+copying package.xml -> /home/main/Documents/CS460_Project/install/CS460_Project/share/CS460_Project
+running install_egg_info
+Copying ../build/CS460_Project/CS460_Project.egg-info to /home/main/Documents/CS460_Project/install/CS460_Project/lib/python3.10/site-packages/CS460_Project-0.0.0-py3.10.egg-info
+running install_scripts
+Installing robobuddy script to /home/main/Documents/CS460_Project/install/CS460_Project/lib/CS460_Project
+writing list of installed files to '/home/main/Documents/CS460_Project/build/CS460_Project/install.log'

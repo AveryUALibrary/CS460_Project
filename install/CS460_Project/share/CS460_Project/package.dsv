@@ -1,0 +1,6 @@
+source;share/CS460_Project/hook/pythonpath.ps1
+source;share/CS460_Project/hook/pythonpath.dsv
+source;share/CS460_Project/hook/pythonpath.sh
+source;share/CS460_Project/hook/ament_prefix_path.ps1
+source;share/CS460_Project/hook/ament_prefix_path.dsv
+source;share/CS460_Project/hook/ament_prefix_path.sh
