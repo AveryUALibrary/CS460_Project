@@ -59,6 +59,30 @@ Door {
 }
 ```
 
+### Controlling Traffic Lights (CrossRoadsTrafficLight)
+
+To simulate traffic light control at intersections within the indoor environment, you can modify the `CrossRoadsTrafficLight` block in the `indoor_environment.wbt` file. This enables custom timing and signal behavior to model realistic traffic flow and robot interactions with intersections.
+
+```yaml
+CrossRoadsTrafficLight {
+  name "traffic_light_1"
+  translation 5 5 0  # Set location in the environment
+  colors [
+    "red",
+    "yellow",
+    "green"
+  ]
+  intervals [
+    5,  # Duration for red light in seconds
+    2,  # Duration for yellow light in seconds
+    3   # Duration for green light in seconds
+  ]
+  state "red"  # Initial state
+}
+```
+
+This configuration controls the light sequence and duration for each signal. Adjust the `intervals` and `state` parameters as needed for different timing and initial signal states. 
+
 ## File Structure
 
 ```
